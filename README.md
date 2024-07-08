@@ -28,3 +28,6 @@ Visualization Details
 Customize the bar chart in Tableau to enhance clarity and visual appeal.
 Ensure the chart includes appropriate labels, axes, and a title to convey the intended message effectively.
 
+
+NOTE: DOWNLOAD "bar graph.twb" FILE TO SEE OR TAKE A LOOK ON IT AS A PDF FILE ATTACHED.
+

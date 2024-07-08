@@ -25,5 +25,5 @@ Step 5: Create a Bar Graph
   Use "Country Name" as a tooltip for additional details.
   
   Visualization Details
-    - Customize the bar chart in Tableau to enhance clarity and visual appeal.
-    - Ensure the chart includes appropriate labels, axes, and a title to convey the intended message effectively.
+    Customize the bar chart in Tableau to enhance clarity and visual appeal.
+    Ensure the chart includes appropriate labels, axes, and a title to convey the intended message effectively.

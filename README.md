@@ -1,7 +1,3 @@
-Certainly! Here's how the text appears without extra lines and spaces:
-
----
-
 # Population Distribution Visualization with Tableau
 
 Goal: The goal of this project is to create a bar chart using Tableau to visualize the average population distribution of each country from 1960 to 2023.
